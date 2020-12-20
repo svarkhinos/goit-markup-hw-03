@@ -50,6 +50,11 @@ p {
 
 /* навигация по сайту*/
 
+.page-header {
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
 .main-nav {
   display: flex;
   align-items: center;
@@ -227,6 +232,13 @@ p {
 .teem-list {
   display: flex;
 }
+.teem-item-description {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 59px;
+  padding-left: 59px;
+}
+
 .teem-item {
   background: #ffffff;
 
@@ -245,8 +257,6 @@ p {
 }
 
 .title-text {
-  margin-top: 30px;
-  margin-bottom: 10px;
   text-align: center;
 
   font-weight: 500;
@@ -261,6 +271,7 @@ p {
 /* Footer*/
 footer {
   padding-top: 60px;
+  padding-bottom: 60px;
   background-color: var(--dark-background-color);
 }
 .footer-logo {
@@ -329,7 +340,6 @@ address {
 
 .portfolio-item-title {
   margin-bottom: 4px;
-  padding-left: 24px;
 
   font-weight: 700;
   font-size: 18px;
@@ -338,16 +348,17 @@ address {
   color: var(--title-text-color);
 }
 .portfolio-item-text {
-  padding-left: 24px;
-
   font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
   color: var(--primary-text-color);
 }
 
-.portfolio-photo {
-  margin-bottom: 20px;
+.portfolio-photo-description {
+  padding-top: 20px;
+  padding-right: 24px;
+  padding-bottom: 20px;
+  padding-left: 24px;
 }
 
 .portfolio-list {
