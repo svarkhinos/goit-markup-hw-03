@@ -51,8 +51,8 @@ p {
 /* навигация по сайту*/
 
 .page-header {
-  padding-top: 24px;
-  padding-bottom: 25px;
+  padding-top: 13px;
+  padding-bottom: 12px;
 }
 
 .main-nav {
@@ -233,10 +233,10 @@ p {
   display: flex;
 }
 .teem-item-description {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  padding-right: 59px;
-  padding-left: 59px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 .teem-item {
@@ -254,6 +254,7 @@ p {
 .teem-item-title {
   font-size: 16px;
   line-height: 1.19;
+  margin-bottom: 10px;
 }
 
 .title-text {
@@ -270,8 +271,8 @@ p {
 
 /* Footer*/
 footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 52px;
+  padding-bottom: 52px;
   background-color: var(--dark-background-color);
 }
 .footer-logo {
@@ -302,7 +303,7 @@ address {
 .filter-list {
   display: flex;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .filter-button {
