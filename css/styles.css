@@ -117,8 +117,8 @@ p {
 
 /* Секция1 Герой*/
 .hero {
-  padding-top: 202px;
-  padding-bottom: 202px;
+  padding-top: 201px;
+  padding-bottom: 201px;
   background-color: var(--dark-background-color);
 }
 .hero-title {
@@ -170,8 +170,8 @@ p {
 .benefits-list {
   display: flex;
   flex-wrap: wrap;
-  padding-top: 3px;
-  padding-bottom: 8px;
+  padding-top: 2px;
+  padding-bottom: 5px;
 }
 
 .hidden {
@@ -234,8 +234,8 @@ p {
 }
 /* Наша команда */
 .teem {
-  padding-top: 96px;
-  padding-bottom: 96px;
+  padding-top: 94px;
+  padding-bottom: 94px;
   background-color: var(--light-background-color);
 }
 .teem-title {
